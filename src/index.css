@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@900&display=swap');
+html {
+	background: #bddbf5 !important;
+}
+body {
+	margin: 0;
+	font-family: 'Montserrat', sans-serif !important;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	background: linear-gradient(#fff 0%, #bfdcf5 56.16%, #bddbf5 100%) !important;
+	color: #fff !important;
+	font-size: 12px !important;
+}
+
+code {
+	font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+		monospace;
+}

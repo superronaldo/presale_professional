@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44.78" height="44.78" viewBox="0 0 44.78 44.78">
+  <g id="All" transform="translate(-255.4 -115.7)">
+    <g id="Developer-Center" transform="translate(255.4 115.7)">
+      <g id="Group-28" transform="translate(0 0)">
+        <g id="Group-29" transform="translate(0 0)">
+          <g id="Group-10" transform="translate(0 0)">
+            <g id="Group-13">
+              <g id="Group-46" transform="translate(0)">
+                <g id="Group-45" transform="translate(0)">
+                  <circle id="Oval" cx="22.39" cy="22.39" r="22.39" fill="#627eea"/>
+                  <path id="Path" d="M632.2,207.1v12.413l10.491,4.689Z" transform="translate(-609.112 -201.506)" fill="rgba(255,255,255,0.6)"/>
+                  <path id="Path_1_" d="M471.291,207.1,460.8,224.2l10.491-4.689Z" transform="translate(-448.203 -201.506)" fill="#fff"/>
+                  <path id="Path_2_" d="M632.2,524.49v8.434L642.7,518.4Z" transform="translate(-609.112 -493.751)" fill="rgba(255,255,255,0.6)"/>
+                  <path id="Path_3_" d="M471.291,532.925V524.49L460.8,518.4Z" transform="translate(-448.203 -493.751)" fill="#fff"/>
+                  <path id="Path_4_" d="M632.2,420.679l10.491-6.09L632.2,409.9Z" transform="translate(-609.112 -391.892)" fill="rgba(255,255,255,0.2)"/>
+                </g>
+                <path id="Path_5_" d="M460.8,414.589l10.491,6.09V409.9Z" transform="translate(-448.203 -391.892)" fill="rgba(255,255,255,0.6)"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
